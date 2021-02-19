@@ -1,0 +1,40 @@
+    body
+    {
+        height: 100%;
+        width: 100%;
+        text-align: center;
+    }
+    header 
+    {
+        background-color: brown;
+        height: 7em;
+        vertical-align: middle;
+    }
+    
+    main .d-none
+    {
+        background-color: orange;
+    }
+    
+   #TopMenu
+   {
+       background-color: burlywood;
+   }
+
+   #MainC
+   {
+       height: 15em;
+   }
+
+   #p1
+   {
+       background-color: red;
+   }
+   #p2
+   {
+       background-color: blue;
+   }
+   footer
+   {
+        background-color: brown;
+   }
